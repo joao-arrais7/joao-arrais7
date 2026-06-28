@@ -1,6 +1,6 @@
 <div align="center">
 
-# João Arraís
+# João Arrais
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Back-end+em+forma%C3%A7%C3%A3o;Apaixonado+por+l%C3%B3gica+e+arquitetura+de+sistemas;Sempre+aprendendo+algo+novo;&font=Fira%20Code&center=true&width=500&height=50&color=0e75b6&vCenter=true&size=22" alt="typing animation" />
 
