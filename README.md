@@ -64,20 +64,10 @@ Atualmente atuo na área de **Dados** e curso **Ciência da Computação**, dire
 
 ## 📌 Projetos em destaque
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/joao-arrais7/crud-livros-java-sqlite">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=joao-arrais7&repo=crud-livros-java-sqlite&theme=default" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/joao-arrais7/Task-Manager_java">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=joao-arrais7&repo=Task-Manager_java&theme=default" />
-      </a>
-    </td>
-  </tr>
-</table>
+- 📚 **[crud-livros-java-sqlite](https://github.com/joao-arrais7/crud-livros-java-sqlite)** — CRUD de livros em Java com persistência em SQLite
+- ✅ **[Task-Manager_java](https://github.com/joao-arrais7/Task-Manager_java)** — Gerenciador de tarefas em Java
+
+> 💡 Fixe estes repositórios na sua página de perfil também: vá em `github.com/joao-arrais7` → **Customize your pins** → selecione os repositórios. Isso os mostra como cards nativos do GitHub, sem depender de serviço externo.
 
 ---
 
@@ -89,7 +79,7 @@ Atualmente atuo na área de **Dados** e curso **Ciência da Computação**, dire
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joao-arrais7&theme=default" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=joao-arrais7&theme=default" alt="GitHub streak" />
 </p>
 
 ---
