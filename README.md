@@ -2,7 +2,7 @@
 
 # João Arrais
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Back-end+em+forma%C3%A7%C3%A3o;Apaixonado+por+l%C3%B3gica+e+arquitetura+de+sistemas;Sempre+aprendendo+algo+novo;&font=Fira%20Code&center=true&width=500&height=50&color=0e75b6&vCenter=true&size=22" alt="typing animation" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Atuo+na+%C3%A1rea+de+Dados;Migrando+para+Fullstack+%26+Back-end+Java;Cursando+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Sempre+aprendendo+algo+novo;&font=Fira%20Code&center=true&width=500&height=50&color=0e75b6&vCenter=true&size=22" alt="typing animation" />
 
 <img src="https://komarev.com/ghpvc/?username=joao-arrais7&label=Visualizações%20do%20perfil&color=0e75b6&style=flat" alt="profile views" />
 
@@ -12,12 +12,13 @@
 
 ## 👋 Sobre mim
 
-Sou um desenvolvedor em formação com foco em **back-end**, atualmente aprofundando conhecimento em **Java**, persistência de dados e arquitetura de sistemas. Tenho passagem por diferentes frentes — lógica, web, automação com Python — e estou direcionando esse repertório para construir uma base sólida como desenvolvedor back-end.
+Atualmente atuo na área de **Dados** e curso **Ciência da Computação**, direcionando meus estudos para **Desenvolvimento Fullstack** e **Back-end com Java**. Tenho passagem por diferentes frentes — lógica, web, automação — e estou construindo uma base sólida em **Java** e **JavaScript** através de projetos pessoais.
 
-- 🎯 Em busca de oportunidades como **Desenvolvedor(a) Back-end Júnior** — estágio, vaga júnior ou trainee
+- 🎯 Em busca de oportunidades como **Desenvolvedor(a) Fullstack ou Back-end Júnior** — estágio, vaga júnior ou trainee
+- 💼 Atuando profissionalmente na área de **Dados**
+- 🎓 Cursando **Ciência da Computação**
 - 🔭 Construindo projetos em **Java** com persistência de dados (JDBC + SQLite)
-- 🌱 Aprofundando conhecimento em **Spring**, **SQL** e **AWS**
-- 🐍 Já desenvolvi um projeto em **Python** com interface gráfica (RAD)
+- 🌱 Aprofundando conhecimento em **Spring**, **React** e **SQL**
 - 🛠️ Versionamento de todo o trabalho com **Git/GitHub**
 - 📫 Aberto a contato e oportunidades — converse comigo pelo [GitHub](https://github.com/joao-arrais7)
 
@@ -52,8 +53,8 @@ Sou um desenvolvedor em formação com foco em **back-end**, atualmente aprofund
 **Em aprofundamento**
 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 
 </td>
 </tr>
@@ -105,6 +106,6 @@ Sou um desenvolvedor em formação com foco em **back-end**, atualmente aprofund
 
 <div align="center">
 
-### 🚀 Atualmente focado em me tornar um Desenvolvedor Back-end sólido — um commit por vez.
+### 🚀 Migrando de Dados para Fullstack / Back-end Java — um commit por vez.
 
 </div>
