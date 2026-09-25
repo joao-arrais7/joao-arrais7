@@ -90,8 +90,6 @@ Atualmente atuo na área de **Dados** e curso **Ciência da Computação**, dire
   <img src="https://raw.githubusercontent.com/joao-arrais7/joao-arrais7/output/github-contribution-grid-snake.svg" alt="snake game" />
 </p>
 
-> 💡 Esse gráfico se atualiza automaticamente conforme novos commits são feitos.
-
 ---
 
 <div align="center">
